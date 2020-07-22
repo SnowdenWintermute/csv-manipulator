@@ -1,0 +1,40 @@
+body {
+  background: grey;
+  padding-top: 40px;
+}
+table {
+  border-collapse: collapse;
+}
+#logo-img {
+  height: 200px;
+}
+#tables-holder {
+  width: 8.5in;
+  /* height: 11in; */
+  max-width: 100%;
+  background: white;
+  margin: 0 auto;
+  padding: 10px;
+}
+#data-table {
+  width: 100%;
+}
+#tables-holder tbody {
+  width: 100%;
+  /* background-color: gray; */
+}
+.table-td {
+  width: 100%;
+
+  border-right: 1px solid black;
+  padding: 10px;
+}
+.table-td-header {
+  padding: 10px;
+  font-weight: bold;
+  border-right: 1px solid black;
+}
+.table-tr {
+  width: 100%;
+  border: 1px solid black;
+}
